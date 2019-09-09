@@ -5,7 +5,7 @@
 - 代码使用：可直接下载或者git clone 导入idea即可运行
 - 改进：代码比较粗
 - 效果：
-![image](/web/img/logo.gif)
+![image](web/img/logo.gif)
 我的学习笔记：
 后面在补充  
 参考资料：https://www.imooc.com/learn/678  
