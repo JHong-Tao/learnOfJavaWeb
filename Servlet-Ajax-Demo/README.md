@@ -5,11 +5,8 @@
 - 代码使用：可直接下载或者git clone 导入idea即可运行
 - 改进：代码比较粗
 - 效果：
-<<<<<<< HEAD
 ![image](web/img/servlet+ajax+demo.gif)
-=======
-![image](web/img/logo.gif)
->>>>>>> e9d144e189d715ddffbde369dfada44e762881c3
+
 我的学习笔记：
 后面在补充  
 参考资料：https://www.imooc.com/learn/678  
