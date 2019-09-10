@@ -19,3 +19,12 @@
          
             
 ## listener：监听器
+    1.概念：
+        1.事件：一件事情
+        2.事件源：事件发生的地方
+        3.监听器：一个对象
+        4.注册监听：将事件，事件源，监听器绑定子啊一起，当事件源上发生某个事件后，执行监听器代码
+    2.ServletComtexListener:监听ServletContext对象的创建和销毁
+        1.contextDestroyed():ServletContext对象被销毁之前会调用的方法
+        2.contexInitialized():ServletContext对象被创建之后会调用的方法
+        
